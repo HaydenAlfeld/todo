@@ -1,0 +1,4 @@
+working:
+build deck
+schedule dentist appointment
+go grocery shopping

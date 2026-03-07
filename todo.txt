@@ -1,6 +1,5 @@
 to do:
 build deck
-pay taxes
 fix fridge
 dishes
 trash
